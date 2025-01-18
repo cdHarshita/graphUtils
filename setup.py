@@ -11,6 +11,7 @@ setup(
     author_email="harshita19062004@gmail.com",
     url="https://github.com/cdHarshita/graphUtils",
     packages=find_packages(),
+    license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
