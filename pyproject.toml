@@ -5,10 +5,7 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "graphUtils"
 authors = [{name = "Harshita", email = "harshita19062004@gmail.com"}]
-readme = "README.md"
+readme = "README.md"  # This is the correct place to define it.
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
-
-# Include README file in distribution
-readme = "README.md"
