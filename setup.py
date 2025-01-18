@@ -2,14 +2,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="graphUtils",
+    name="graphUtilscd_harshita",
     version="1.0.0",
     description="A Python package for graph algorithms",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Harshita",
     author_email="harshita19062004@gmail.com",
-    url="https://github.com/cdHarshita/graphUtils",
+    url="https://github.com/cdHarshita/graphUtilscd_harshita",
     packages=find_packages(),
     license="MIT",
     classifiers=[

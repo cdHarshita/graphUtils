@@ -1,10 +1,10 @@
-# graphUtils
+# graphUtilscd_harshita
 
-`graphUtils` is a Python library that provides essential graph algorithms such as Dijkstra, Bellman-Ford, Floyd-Warshall, and Topological Sort.
+`graphUtilscd_harshita` is a Python library that provides essential graph algorithms such as Dijkstra, Bellman-Ford, Floyd-Warshall, and Topological Sort.
 
 ## Installation
 
 Install the package via pip:
 
 ```bash
-pip install graphUtils
+pip install graphUtilscd_harshita
