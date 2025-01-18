@@ -1,0 +1,12 @@
+# Ignore Python bytecode
+*.pyc
+__pycache__
+
+# Ignore IDE config files
+.vscode/
+.idea/
+
+# Ignore distribution files
+*.tar.gz
+*.egg-info/
+dist/
