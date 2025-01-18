@@ -9,3 +9,6 @@ readme = "README.md"
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
+
+# Include README file in distribution
+readme = "README.md"
